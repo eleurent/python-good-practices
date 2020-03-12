@@ -8,7 +8,7 @@
   * [Continuous integration](#continuous-integration)
 * [Cool libraries](#cool-libraries)
   * [Visualisation](#visualisation)
-  * [Automatic differenciation](#automatic-differenciation)
+  * [Automatic differentiation](#automatic-differentiation)
 * [Resources](#resources)
 
 # Tools
@@ -154,7 +154,7 @@ Useful actions:
 ### [binder](https://mybinder.org/)
 > Turn a Git repo into a collection of interactive notebooks
 
-## Automatic differenciation
+## Automatic differentiation
 
 ### [autograd](https://github.com/HIPS/autograd)
 > Efficiently computes derivatives of numpy code
