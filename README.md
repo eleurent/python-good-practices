@@ -47,6 +47,7 @@
 > Sphinx is a tool that makes it easy to create intelligent and beautiful documentation, written by Georg Brandl and licensed under the BSD license.
 
 ### [Read The Docs](https://docs.readthedocs.io/en/stable/) with [sphinx](https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html)
+> Read the Docs simplifies software documentation by automating building, versioning, and hosting of your docs for you. Think of it as Continuous Documentation.
 
 ## Testing
 
