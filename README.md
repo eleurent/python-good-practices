@@ -145,6 +145,9 @@ Useful actions:
 ### [tqdm](https://github.com/tqdm/tqdm)
 > A Fast, Extensible Progress Bar for Python and CLI
 
+### [celluloid](https://github.com/jwkvam/celluloid/)
+> Matplotlib animations made easy
+
 ### [binder](https://mybinder.org/)
 > Turn a Git repo into a collection of interactive notebooks
 
