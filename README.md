@@ -67,6 +67,9 @@ def test_machin():
     assert foo == bar
 ```
 
+### [Coverage](https://coverage.readthedocs.io/en/coverage-5.0.3/)
+> Coverage.py is a tool for measuring code coverage of Python programs. It monitors your program, noting which parts of the code have been executed, then analyzes the source to identify code that could have been executed but was not.
+
 ## Profiling
 
 ### [cProfile](https://docs.python.org/2/library/profile.html)
