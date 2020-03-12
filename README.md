@@ -1,6 +1,7 @@
 * [Tools](#tools)
   * [Command-line interface](#command-line-interface)
   * [Coding style](#coding-style)
+  * [Documentation](#documentation)
   * [Testing](#testing)
   * [Profiling](#profiling)
   * [Fast computing](#fast-computing)
@@ -40,6 +41,12 @@
 ### [autopep8](https://github.com/hhatto/autopep8)
 > A tool that automatically formats Python code to conform to the PEP 8 style guide
 
+## Documentation
+
+### [sphinx](https://www.sphinx-doc.org/en/master/)
+> Sphinx is a tool that makes it easy to create intelligent and beautiful documentation, written by Georg Brandl and licensed under the BSD license.
+
+### [Read The Docs](https://docs.readthedocs.io/en/stable/) with [sphinx](https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html)
 
 ## Testing
 
