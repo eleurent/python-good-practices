@@ -69,7 +69,7 @@ if __name__ == '__main__':
 ### [pytest](https://docs.pytest.org/en/latest/)
 > The pytest framework makes it easy to write small tests, yet scales to support complex functional testing for applications and libraries.
 
-[Alledgedly](http://sametmax.com/un-gros-guide-bien-gras-sur-les-tests-unitaires-en-python-partie-3/) better than _unittest_.
+[Allegedly](http://sametmax.com/un-gros-guide-bien-gras-sur-les-tests-unitaires-en-python-partie-3/) better than _unittest_.
 ```
 def test_machin():
     assert foo == bar
