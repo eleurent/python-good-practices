@@ -121,6 +121,8 @@ def monte_carlo_pi(nsamples):
     return 4.0 * acc / nsamples
 ```
 
+See also [the differences between pypy, Cython and numba](https://www.quora.com/How-do-Cython-Numba-and-PyPy-compare-in-terms-of-performance-ease-of-use-and-restrictions) on Quora.
+
 ## Build and Interpreter
 
 ### [Remote interpreter with PyCharm](https://www.jetbrains.com/help/pycharm/configuring-remote-interpreters-via-ssh.html#)
